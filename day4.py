@@ -12,3 +12,7 @@ c = complex(y)
 print(a, type(a))
 print(b, type(b))
 print(c, type(c))
+
+import random
+
+print(random.randint(1,55))
