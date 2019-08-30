@@ -19,4 +19,4 @@ print(1&2) # should be zero
 # 7 is 111
 print(3&7) # should be 011 which is 3
 print(3|7) # should be 111 which is 7
-print(~2) #  (-x-1) 
+print(~2) #  (-x-1) ss
