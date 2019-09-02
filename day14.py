@@ -15,3 +15,5 @@ print(lst3*3) # repeat three times
 
 # operators on lists
 print(lst2+lst3)
+
+lstry = ['just a try']
