@@ -21,3 +21,5 @@ print(type(a))
 b = tuple()
 c = tuple([1,2,3,4,5])
 print(c)
+
+print(1)
