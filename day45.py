@@ -61,3 +61,5 @@ myiter2 = iter(myclass2)
 
 for i in myiter2:
     print(i)
+
+# fixing
