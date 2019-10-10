@@ -1,3 +1,4 @@
 # Files I don't want to share in GitHub
 ###################
 *.pdf
+__pycache__
